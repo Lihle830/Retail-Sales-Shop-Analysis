@@ -4,12 +4,15 @@
 Analysing data designed to generate actionable insights for the new business Owners in understanding the current position of the company.The purpose of the Retail Shop Sales Analysis project is to provide new business owners with valuable insights by analyzing actual transactional data from retail stores. The goal is to equip the newly business owners with clear, data-driven insights to understand what drives the business and take actions that increase revenue and strengthen performance.
 
 # Problem Statement.
+
 New retail business owners often face challenges in understanding the key factors that drive sales and overall business performance. Without reliable, data-driven insights, they risk making decisions based on assumptions rather than factual evidence, which can limit revenue growth and operational efficiency. The Retail Shop Sales Analysis project addresses this gap by analysing transactional data from retail stores to uncover actionable insights. 
 
 # Aim.
+
 The aim of the Retail Shop Sales Analysis project is to analyze transactional data from retail stores to generate clear, data-driven insights that help new business owners understand key sales drivers, make informed decisions, and implement strategies that enhance revenue growth and overall business performance. Objectives. These insights will empower business owners to identify the main drivers of sales, make informed strategic decisions, and ultimately improve revenue and business performance. 
 
 # Objectivies.
+
 -Inspect all transactional data is gathered
 -Understanding overall sales performance and trends over time
 -Identifying the products that are selling the most
@@ -17,7 +20,9 @@ The aim of the Retail Shop Sales Analysis project is to analyze transactional da
 -Recognise the opportunities to grow revenue and reduce costs
 
 # Tools & Templates to Use.
+
 -Excel or Google Sheets: For initial data cleaning and pivot tables. -Google Looker Studio: For interactive dashboards and visual storytelling. -Snowflake: For Coding. -Presentation software: PowerPoint or Canva Slides with visuals and summary points. -Miro: For planning
 
 # Summary.
+
 The Retail Shop Sales Analysis project aims to utilize transactional data from retail stores to generate meaningful insights into sales performance. By highlighting the main factors that influence sales and revealing emerging trends, the project provides new business owners with valuable guidance for making data-driven decisions. These insights will help drive revenue growth, optimize operations, and improve overall business outcomes.
